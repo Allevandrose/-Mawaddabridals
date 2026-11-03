@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160" width="680" height="160" role="img" aria-label="Mawaddabridals">
+  <title>Mawaddabridals</title>
+
+  <!-- Icon: cloud-shaped badge with an elegant monogram M -->
+  <g transform="translate(20, 25)">
+    <!-- Cloud shape background -->
+    <path d="M 30 90
+             C 10 90 5 70 15 58
+             C 10 40 28 28 42 34
+             C 48 18 70 12 82 24
+             C 95 12 115 18 118 34
+             C 135 32 145 48 138 62
+             C 150 68 150 86 135 90
+             Z"
+          fill="#1B2A4A"
+          stroke="#C9A96E"
+          stroke-width="2"/>
+
+    <!-- Monogram "M" in gold -->
+    <path d="M 42 72
+             L 42 44
+             L 58 60
+             L 74 44
+             L 74 72"
+          stroke="#C9A96E"
+          stroke-width="5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          fill="none"/>
+
+    <!-- Small diamond accent above the M -->
+    <path d="M 58 32 L 62 36 L 58 40 L 54 36 Z"
+          fill="#E8C987"/>
+  </g>
+
+  <!-- Wordmark: Mawaddabridals -->
+  <g font-family="'Fraunces', 'Playfair Display', 'Cormorant Garamond', Georgia, 'Times New Roman', serif"
+     font-weight="600"
+     font-size="58"
+     letter-spacing="-0.8">
+    <text x="160" y="100">
+      <tspan fill="#1B2A4A">Mawadda</tspan><tspan fill="#C9A96E">bridals</tspan>
+    </text>
+  </g>
+</svg>
